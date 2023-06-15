@@ -1,0 +1,16 @@
+num1= 10
+num2= 10
+oper= /
+1
+num1= 20
+num2= 30
+oper= +
+50
+num1= 20
+num2= 30
+oper= -
+-10
+num1= 10
+num2= 10
+oper= * 
+100

@@ -1,0 +1,1 @@
+print("Hello, I'm Gwaily \nGraduated from Mechatronics menofia tier 2022 \nFrom menofia")
